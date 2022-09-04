@@ -88,5 +88,5 @@ int main(int num1, int num2) {
 
 
 :joy:
-this is a footnote [^1]
-[^1]: footnote
+this is a ==footnote== H~2~O [^1]
+[^1]: Hydrogen Dioxide
