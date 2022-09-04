@@ -82,11 +82,11 @@ int main(int num1, int num2) {
 | John Doe| afsa@afsa.co  |
 
 <!-- Task List -->
-+ [x] tsk1
-+ [x] tsk 2
-+ [] tsk 3
+- [x] tsk1
+- [x] tsk 2
+- [ ] tsk 3
 
-<br>
+
 :joy:
 this is a footnote [^1]
 [^1]: footnote
