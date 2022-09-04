@@ -84,5 +84,5 @@ int main(int num1, int num2) {
 <!-- Task List -->
 + [x] tsk1
 + [x] tsk 2
-+ [x] tsk 3
++ [] tsk 3
 
